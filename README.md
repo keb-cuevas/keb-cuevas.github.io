@@ -1,8 +1,9 @@
-# Keb Cuevas, LAgr.
+# Hi, I'm Keb 👋
 
- - 💡 I'm a web developer, data scientist, content creator
+ - My name is **Keb Cuevas, LAgr.**
+ - 💡 I'm a web developer, data scientist, licensed agriculturist, and content creator
  - 🌱 I specialize in digital agriculture, bioinformatics, and innovation
- - 📫 Email me at kebcuevas@gmail.com for any inquiries
+ - 📫 Email me at [kebcuevas@gmail.com](mailto:kebcuevas@gmail.com) for any inquiries
  - 👌 Connect with me on [LinkedIn](https://linkedin.com/in/kebcuevas)
 
 ## Things you'll find here
