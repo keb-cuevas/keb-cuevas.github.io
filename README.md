@@ -1,37 +1,27 @@
-## Keb Cuevas
+# Keb Cuevas, LAgr.
 
-You can use the [editor on GitHub](https://github.com/KebCuevasPH/kebcuevasph.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ - 💡 I'm a web developer, data scientist, content creator
+ - 🌱 I specialize in digital agriculture, bioinformatics, and innovation
+ - 📫 Email me at kebcuevas@gmail.com for any inquiries
+ - 👌 Connect with me on [LinkedIn](https://linkedin.com/in/kebcuevas)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Things you'll find here
 
-### Markdown
+1. **Datasets** - open source data for your data analysis, training, or exploration
+2. **Repositories** - open source codes, model, snippets, or programs 
+3. **Public Files** - files that I want to show the world
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Datasets
 
-```markdown
-Syntax highlighted code block
+- Prevailing Agricultural Commodity Prices (October 2018 to March 2022) from the Department of Agriculture
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Repositories
 
-1. Numbered
-2. List
+- Null
 
-**Bold** and _Italic_ and `Code` text
+## Public Files
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KebCuevasPH/kebcuevasph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- PRC License
+- Photo
+- Biographical Sketch
