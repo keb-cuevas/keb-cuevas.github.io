@@ -18,7 +18,8 @@
 
 ## Repositories
 
-- Null
+- [Eduma WordPress theme (.zip)](https://github.com/keb-cuevas/keb-cuevas.github.io/blob/main/eduma.zip)
+- [Elementor Pro 3.6.6 (.zip)](https://github.com/keb-cuevas/keb-cuevas.github.io/blob/main/elementor-pro-3.6.5-package.zip)
 
 ## Public Files
 
