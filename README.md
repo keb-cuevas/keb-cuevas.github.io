@@ -7,14 +7,13 @@
 
 ## Things you'll find here
 
-1. **Datasets** - open source data for your data analysis, training, or exploration
-2. **Repositories** - open source codes, model, snippets, or programs 
-3. **Public Files** - files that I want to show the world
+1. [**Datasets**](#datasets) - open source data for your data analysis, training, or exploration
+2. [**Repositories**](#repositories) - open source codes, model, snippets, or programs 
+3. [**Public Files**](#public-files) - files that I want to show the world
 
 ## Datasets
 
 - Prevailing Agricultural Commodity Prices (October 2018 to March 2022) from the Department of Agriculture
-
 
 ## Repositories
 
